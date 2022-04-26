@@ -1,3 +1,8 @@
-   Olá, eu me chamo Paloma Selva.
+  ## Olá! Eu me chamo Paloma Selva. 
+  Sou graduanda de análise e desenvolvimento de sistemas e, atualmente, estudo Javascript.
 
-    Sou graduanda em análise e desenvolvimento de sistemas e atualmente tenho me dedicado a me tornar uma dev front-end.
+  <div align="center">
+  <a href="https://github.com/PalomaSelva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=palomaselva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PalomaSelva&layout=compact&langs_count=7&theme=dracula"/>
+</div>
