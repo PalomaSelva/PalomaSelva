@@ -3,7 +3,7 @@
 
  <div align="center">
   <a href="https://github.com/PalomaSelva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=palomaselva&show_icons=true&theme=omni&include_all_commits=true&count_private=true&text_color=ed9acc">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=palomaselva&show_icons=true&theme=omni&include_all_commits=true&count_private=TRUE&text_color=ed9acc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaselva&langs_count=7&theme=omni&text_color=fab6df">
 </div>
 <div align="center" style="display: inline_block"><br>
