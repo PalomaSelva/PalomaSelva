@@ -3,8 +3,8 @@
 
  <div align="center">
   <a href="https://github.com/PalomaSelva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=palomaselva&show_icons=true&theme=omni&count_private=TRUE&include_all_commits=true&text_color=ed9acc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaselva&langs_count=7&theme=omni&layout=compact&text_color=fab6df">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=palomaselva&show_icons=true&theme=omni&count_private=TRUE&include_all_commits=TRUE&text_color=ed9acc">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaselva&langs_count=7&theme=omni&layout=compact&text_color=fab6df&count_private=TRUE">
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Paloma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
