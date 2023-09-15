@@ -1,5 +1,5 @@
   ## Olá! Eu me chamo Paloma Selva. 
-  Sou graduanda em análise e desenvolvimento de sistemas e atualmente estou estudando Javascript.
+  Sou graduanda em análise e desenvolvimento de sistemas e atualmente estou estudando TypeScript.
 
  <div align="center">
   <a href="https://github.com/PalomaSelva">
