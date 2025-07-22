@@ -7,6 +7,7 @@
 ## Sobre mim
 - 🖥️ Técnica em Desenvolvimento de Sistemas
 - 🎓 Graduada em Análise e desenvolvimento de sistemas
+- 🎓 Pós-graduanda em arquitetura de software
 - 🚀 Desenvolvedora Frontend desde 2022
 - 💻 Especializada em Angular e React
 - 💡 Entusiasta de TypeScript e Design
