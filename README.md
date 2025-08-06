@@ -1,11 +1,10 @@
 # Olá! Eu me chamo Paloma 🩷
 
 <p>
-  Desenvolvedora Frontend apaixonada por criar experiências web incríveis e transformar ideias em código. 
+  Engenheira de sofware Frontend apaixonada por criar experiências web incríveis e transformar ideias em código. 
 </p>
 
 ## Sobre mim
-- 🖥️ Técnica em Desenvolvimento de Sistemas
 - 🎓 Graduada em Análise e desenvolvimento de sistemas
 - 🎓 Pós-graduanda em arquitetura de software
 - 🚀 Desenvolvedora Frontend desde 2022
